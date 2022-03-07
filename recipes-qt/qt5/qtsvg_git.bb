@@ -14,4 +14,4 @@ DEPENDS += "qtbase"
 
 SRC_URI:append = " file://CVE-2021-3481.patch"
 
-SRCREV = "52d3788c7b0116ea3db232dccca5f1e3f1e229ac"
+SRCREV = "da19a7140dfd23a42792274ca4f497f20ffd29f4"
